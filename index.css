@@ -1,0 +1,87 @@
+.header{
+    display: flex;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+nav{
+    padding: 16px 5px;
+    font-size:medium;
+    margin:0 20px;
+    
+}
+nav ul{
+    display:flex; 
+    list-style: none;
+}
+nav li a{
+    margin: 0 30px;
+    text-decoration: none;
+    color: black;
+} 
+nav button{
+    width: 100px;
+    text-align: center;
+    background-color: aqua;
+}
+nav img{
+    width: 100;
+    height: 50;
+}
+.first{
+    display: flex;
+    width: 250px;
+    height: 20px;
+    padding: 20px;
+}
+.div2{
+    display:flex;
+    width: 300px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 20px;
+    align-items: center;
+    align-content: center;
+}
+.div2 button{
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    width: 50px;
+    height: 40px;
+    border: none;
+}
+.div2 h5{
+    text-align:end;
+    color: blue;
+}
+span{
+    color: blue;
+}
+.div3{
+    font-size:xx-large;
+    text-align: center;
+}
+.div4{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 700px; 
+    align-self: center;
+}
+.div4 img{
+    border-radius: 10px;
+
+}
+.div5{
+
+}
+.div6{
+    display: flex;
+    background-color: blueviolet;
+}
+.div7 img{
+    width: 200px;
+    height: 200px;
+}
